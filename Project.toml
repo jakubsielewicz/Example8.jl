@@ -1,0 +1,13 @@
+name = "Example8"
+uuid = "7c0fc052-22b7-40d7-96e2-46d76cd90286"
+authors = ["Jakub Sielewicz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
