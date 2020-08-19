@@ -17,5 +17,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/jakubsielewicz/Example8.jl.git",
+    repo="github.com/jakubsielewicz/Example8.jl",
 )
